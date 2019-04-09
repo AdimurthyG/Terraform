@@ -1,0 +1,1 @@
+{"resource":{"my_bucket":{"bucket":"myBucket","acl":"aclagdshjqwd"}}}
