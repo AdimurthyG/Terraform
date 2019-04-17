@@ -1,1 +1,1 @@
-{"resource":{"my_bucket":{"bucket":"myBucket","acl":"aclagdshjqwd"}}}
+{"resource":{"my_bucket":{"bucket":"t2.micro","acl":"ami-007"}}}
