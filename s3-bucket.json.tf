@@ -1,1 +1,1 @@
-{"resource":{"my_bucket":{"bucket":"Stanadrd","acl":"Private"}}}
+{"resource":{"my_bucket":{"bucket":"t2.micro","acl":"ami-007"}}}
