@@ -1,1 +1,1 @@
-{"resource":{"my_bucket":{"bucket":"Stanadrd","acl":"Public_Read"}}}
+{"resource":{"my_bucket":{"bucket":"Stanadrd","acl":"Private"}}}
